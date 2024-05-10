@@ -1,0 +1,2 @@
+# Hospital Management System
+ This C++ code implements a Hospital Management System with features like adding patients to a serial, removing patients from the serial, viewing the current patient, viewing the whole serial list, managing a database of patients, searching the database by name or blood group, deleting entries from the database, sorting the database by various parameters, and exporting the database to a text file.
