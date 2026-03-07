@@ -174,4 +174,3 @@ This version upgrades the old console-based hospital system into a **desktop GUI
 * Compatible with **Code::Blocks**
 * Uses a simple and lightweight native Windows GUI
 * Best suited for small academic or practice hospital management projects
-```
